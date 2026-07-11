@@ -119,7 +119,7 @@ The complete interactive dashboard is available here:
 
 ## Page 1: Google Analytics Ecommerce Performance Dashboard
 
-![Dashboard Page 1](Looker_Studio_Dashboard/Page_02_ conversion_funnel.png)
+![Dashboard Page 1](Looker_Studio_Dashboard/page_01_overview _dashboard.png)
 
 Includes:
 
@@ -133,7 +133,7 @@ Includes:
 
 ## Page 2: Ecommerce Conversion Funnel Analysis
 
-![Dashboard Page 2](Looker_Studio_Dashboard/page_02_conversion_funnel.png)
+![Dashboard Page 2](Looker_Studio_Dashboard/page_01_overview _dashboard.png)
 
 Includes:
 
