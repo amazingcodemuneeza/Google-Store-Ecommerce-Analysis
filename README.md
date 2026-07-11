@@ -59,22 +59,26 @@ The dataset contains ecommerce interaction data from the Google Merchandise Stor
 ---
 
 # Repository Structure
+
+```text
 Google-Sales-Analysis-Ecommerce-Dashboard
 
 │
 ├── SQL
-│ ├── SQL analysis queries
+│   └── SQL analysis queries
 │
 ├── BigQuery_Views
-│ ├── Analytical views
+│   └── Analytical views
 │
 ├── Looker_Studio_Dashboard
-│ ├── Ecommerce Dashboard PDF
-│ └── Dashboard images
+│   ├── Ecommerce Dashboard PDF
+│   └── Dashboard images
 │
 ├── Report
-│ └── Business Analysis Report
+│   └── Business Analysis Report
 │
+└── README.md
+```
 └── README.md
 
 ---
@@ -153,7 +157,6 @@ The complete interactive dashboard is available here:
 
 ![Dashboard Page 2](Looker_Studio_Dashboard/Page 02 - Conversion Funnel Analysis.png)
 
-The complete interactive dashboard is available here:
 
 ---
 
@@ -182,26 +185,19 @@ The complete interactive dashboard is available here:
 
 # Business Recommendations
 
-## Optimise Acquisition Channels
-
-Focus marketing investment on channels that generate both strong traffic volume and conversion performance.
-
-## Improve Organic Conversion
-
-Analyse organic landing pages and product pages to improve purchase completion.
-
-## Promote High-Value Products
-
-Use product revenue insights to guide campaigns and merchandising strategies.
-
-## Improve Checkout Conversion
-
-Investigate reasons for cart abandonment, including:
-
-- Checkout complexity
-- Shipping costs
-- Payment options
-
+## Optimise high-performing acquisition channels:
+Invest further in channels that combine high traffic volume with strong conversion rates.
+## Improve organic conversion: 
+Analyse landing pages and product pages receiving organic traffic to identify opportunities to improve purchase completion.
+## Focus on high-revenue products:
+Promote high-revenue products through targeted campaigns and merchandising strategies.
+## Reduce funnel drop-off:
+Investigate reasons for customer drop-off after adding products to carts. Focus engineering and UX improvements on:
+•	Checkout complexity and page latency.
+•	Hidden shipping costs or rigid delivery timelines.
+•	Alternative modern payment gateways.
+## Monitor performance trends: 
+Continue tracking revenue and conversion trends to identify seasonal patterns and changes in customer behaviour.
 
 ---
 
