@@ -79,9 +79,6 @@ Google-Sales-Analysis-Ecommerce-Dashboard
 │
 └── README.md
 ```
-└── README.md
-
----
 
 # SQL Analysis
 
@@ -114,6 +111,12 @@ Four reusable BigQuery views were created for reporting:
 
 The transformed BigQuery views were connected to Looker Studio to create two interactive dashboard pages for deep-dive reporting:
 
+The complete interactive dashboard is available here:
+
+🔗 **Looker Studio Dashboard:**  
+[View Ecommerce Performance Dashboard](https://datastudio.google.com/reporting/44df5c74-f346-45cf-ac2b-8a13577fae0e)
+
+
 ## Page 1: Google Analytics Ecommerce Performance Dashboard
 
 Includes:
@@ -137,26 +140,6 @@ Includes:
 - Daily funnel performance
 - Ecommerce event trends
 - Conversion rate trends
-
----
-
-# Dashboard Preview
-
-The complete interactive dashboard is available here:
-
-🔗 **Looker Studio Dashboard:**  
-[View Ecommerce Performance Dashboard](https://datastudio.google.com/reporting/44df5c74-f346-45cf-ac2b-8a13577fae0e)
-
-
-## Page 1: Ecommerce Performance Dashboard
-
-![Dashboard Page 1](Looker_Studio_Dashboard/Page 01 Overview - Performance Dashboard.png)
-
-
-## Page 2: Ecommerce Funnel Analysis
-
-![Dashboard Page 2](Looker_Studio_Dashboard/Page 02 - Conversion Funnel Analysis.png)
-
 
 ---
 
