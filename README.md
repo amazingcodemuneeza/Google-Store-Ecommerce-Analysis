@@ -119,8 +119,6 @@ The complete interactive dashboard is available here:
 
 ## Page 1: Google Analytics Ecommerce Performance Dashboard
 
-![Dashboard Page 1](./Looker_Studio_Dashboard/page_01_overview_dashboard.png)
-
 Includes:
 
 - Revenue trend analysis
@@ -132,8 +130,6 @@ Includes:
 - Revenue by city
 
 ## Page 2: Ecommerce Conversion Funnel Analysis
-
-![Dashboard Page 2](Looker_Studio_Dashboard/Page_02_conversion_funnel.png)
 
 Includes:
 
