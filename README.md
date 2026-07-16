@@ -1,4 +1,4 @@
-# Google Merchandise Store Sales Analysis | Business Insights Dashboard
+# Google Merchandise Store Sales and Conversion Analysis | Business Insights Dashboard
 
 ## Project Overview
 
